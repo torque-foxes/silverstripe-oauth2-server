@@ -14,7 +14,7 @@
         "league/oauth2-server": "^6.0",
         "silverstripe/vendor-plugin": "^1",
         "robbie/psr7-adapters": "^1",
-        "PHP": ">=7.1",
+        "PHP": ">=7.1 || ^8.0",
         "silverstripe/admin": "^1",
         "silverstripe/graphql": "^3",
         "silverstripe/crontask": "^2.4"
